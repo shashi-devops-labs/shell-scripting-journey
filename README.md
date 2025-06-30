@@ -11,8 +11,8 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage | Lecture | Topic | Status |
 |------|-----|-------|--------|
 | Stage 1 | Lecture 1 | Hello World, Basics | Completed |
-| Stage 1 | Lecture 2 | Variables, User Input | COmpleted |
-| Stage 1 | Lecture 3 | Conditionals & Comparisons | COmpleted |
+| Stage 1 | Lecture 2 | Variables, User Input | Completed |
+| Stage 1 | Lecture 3 | Conditionals & Comparisons | Completed |
 | Stage 1 | Lecture 4 | `case` statement, Menus | Upcoming  |
 
 ## 📂 Folder Structure
