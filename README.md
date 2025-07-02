@@ -14,7 +14,7 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage 1 | Lecture 2 | Variables, User Input | Completed |
 | Stage 1 | Lecture 3 | Conditionals & Comparisons | Completed |
 | Stage 1 | Lecture 4 | `case` statement, Menus | Completed  |
-| Stage 2 | Lecture 5 | Loops: `for, while, until` | Upcoming |
+| Stage 2 | Lecture 5 | Loops: `for, while, until` | Completed |
 
 ## 📂 Folder Structure
 
@@ -51,6 +51,7 @@ shell-scripting-journey/
 │ │ ├── countdown.sh
 │ │ ├── until_example.sh
 │ │ ├── loop_menu.sh
+│ │ ├── file_report.sh
 │ │ └── notes.md
 │ 
 ├── resources/
