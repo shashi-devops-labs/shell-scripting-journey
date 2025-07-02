@@ -45,6 +45,13 @@ shell-scripting-journey/
 │ │ ├── fruit_selector.sh
 │ │ ├── simple_menu.sh
 │ │ └── notes.md
+│ │
+│ ├── lecture-05/
+│ │ ├── print_numbers.sh
+│ │ ├── countdown.sh
+│ │ ├── until_example.sh
+│ │ ├── loop_menu.sh
+│ │ └── notes.md
 │ 
 ├── resources/
 │ └── references.md (coming soon)
