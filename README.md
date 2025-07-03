@@ -14,7 +14,8 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage 1 | Lecture 2 | Variables, User Input | Completed |
 | Stage 1 | Lecture 3 | Conditionals & Comparisons | Completed |
 | Stage 1 | Lecture 4 | `case` statement, Menus | Completed  |
-| Stage 2 | Lecture 5 | Loops: `for, while, until` | Completed |
+| Stage 1 | Lecture 5 | Loops: `for, while, until` | Completed |
+| Stage 1 | Lecture 6 | File Looping & Automation |  Completed |
 
 ## 📂 Folder Structure
 
@@ -53,7 +54,15 @@ shell-scripting-journey/
 │ │ ├── loop_menu.sh
 │ │ ├── file_report.sh
 │ │ └── notes.md
-│ 
+│ │
+│ ├── lecture-06/
+│ │ ├── line_count_all.sh
+│ │ ├── delete_tmp_files.sh
+│ │ ├── rename_txt_to_md.sh
+│ │ ├── skip_hidden.sh
+│ │ ├── break_example.sh
+│ │ └── notes.md 
+│
 ├── resources/
 │ └── references.md (coming soon)
 
