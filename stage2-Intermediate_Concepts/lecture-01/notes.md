@@ -11,4 +11,4 @@
 - `args_loop.sh`
 - `file_exists.sh`
 - `shift_example.sh`
-
+- `sum_all.sh`

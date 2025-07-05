@@ -17,7 +17,8 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage 1 | Lecture 5 | Loops: `for, while, until` | Completed |
 | Stage 1 | Lecture 6 | File Looping & Automation |  Completed |
 | Stage 1 | Lecture 7 | Functions |  Completed |
-| Stage 2 | Lecture 1 | Script Arguments & Dynamic Input | Completed |
+| Stage 2 | Lecture 1 | Arguments & Dynamic Input | Completed |
+| Stage 2 | Lecture 2 | Argument Validation, Defaults, Help Flags | Completed |
 
 ## 📂 Folder Structure
 
@@ -82,7 +83,16 @@ shell-scripting-journey/
 │ │ ├── shift_example.sh
 │ │ ├── sum_all.sh
 │ │ └── notes.md
-│
+│ │
+│ ├── lecture-02/
+│ │ ├── greet_with_default.sh
+│ │ ├── help_example.sh
+│ │ ├── calc_with_args.sh
+│ │ ├── backup_dir.sh
+│ │ ├── move_sh_to_dir.sh
+│ │ ├── port_check.sh
+│ │ └── notes.md
+│ │
 ├── resources/
 │ └── references.md (coming soon)
 
