@@ -19,6 +19,7 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage 1 | Lecture 7 | Functions |  Completed |
 | Stage 2 | Lecture 1 | Arguments & Dynamic Input | Completed |
 | Stage 2 | Lecture 2 | Argument Validation, Defaults, Help Flags | Completed |
+| Stage 2 | Lecture 3 | Logging, Redirection, and Exit Status | Completed |
 
 ## 📂 Folder Structure
 
@@ -91,6 +92,15 @@ shell-scripting-journey/
 │ │ ├── backup_dir.sh
 │ │ ├── move_sh_to_dir.sh
 │ │ ├── port_check.sh
+│ │ └── notes.md
+│ │
+│ ├── lecture-03/
+│ │ ├── log_writer.sh
+│ │ ├── redirect_example.sh
+│ │ ├── file_copy.sh
+│ │ ├── log_with_function.sh
+│ │ ├── exit_check.sh
+│ │ ├── backup_log.sh
 │ │ └── notes.md
 │ │
 ├── resources/
