@@ -20,6 +20,7 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage 2 | Lecture 1 | Arguments & Dynamic Input | Completed |
 | Stage 2 | Lecture 2 | Argument Validation, Defaults, Help Flags | Completed |
 | Stage 2 | Lecture 3 | Logging, Redirection, and Exit Status | Completed |
+| Stage 2 | Lecture 4 | User Management & Permissions Automation | Completed |
 
 ## 📂 Folder Structure
 
@@ -101,6 +102,16 @@ shell-scripting-journey/
 │ │ ├── log_with_function.sh
 │ │ ├── exit_check.sh
 │ │ ├── backup_log.sh
+│ │ └── notes.md
+│ │
+│ ├── lecture-04/
+│ │ ├── create_user.sh
+│ │ ├── create_user_with_pass.sh
+│ │ ├── bulk_user_add.sh
+│ │ ├── users.txt
+│ │ ├── user_permission_demo.sh
+│ │ ├── lock_user.sh
+│ │ ├── delete_user.sh
 │ │ └── notes.md
 │ │
 ├── resources/
