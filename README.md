@@ -21,6 +21,7 @@ Welcome to my Shell Scripting learning log. This repo documents my 25-lecture jo
 | Stage 2 | Lecture 2 | Argument Validation, Defaults, Help Flags | Completed |
 | Stage 2 | Lecture 3 | Logging, Redirection, and Exit Status | Completed |
 | Stage 2 | Lecture 4 | User Management & Permissions Automation | Completed |
+| Stage 2 | Lecture 5 | File System Monitoring & Log Rotation | Completed |
 
 ## 📂 Folder Structure
 
@@ -112,6 +113,14 @@ shell-scripting-journey/
 │ │ ├── user_permission_demo.sh
 │ │ ├── lock_user.sh
 │ │ ├── delete_user.sh
+│ │ └── notes.md
+│ │
+│ ├── lecture-05/
+│ │ ├── check_disk_usage.sh
+│ │ ├── large_files.sh
+│ │ ├── delete_old_logs.sh
+│ │ ├── rotate_log.sh
+│ │ ├── cron_safe_cleanup.sh
 │ │ └── notes.md
 │ │
 ├── resources/
